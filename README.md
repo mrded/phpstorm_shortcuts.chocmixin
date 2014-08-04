@@ -3,4 +3,4 @@ phpstorm_shortcuts.chocmixin
 
 PHPStorm Shortcuts for Chocolat
 
-Clone `into ~/.chocolat/mixins/`
+Clone into `~/.chocolat/mixins/`
